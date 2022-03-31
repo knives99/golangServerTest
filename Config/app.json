@@ -1,0 +1,10 @@
+{
+  "app_name" : "server",
+  "app_mode": "debug",
+  "app_host" : "localhost",
+  "app_port" :"8090",
+  "capacity" : 1000
+
+
+
+}
